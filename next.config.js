@@ -15,6 +15,7 @@ module.exports = {
       'mmafandom.com',
       'incrediblefamous.com',
       'nbafandom.net',
+      'fantasticnews.net',
     ],
   },
   async rewrites() {
